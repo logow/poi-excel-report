@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<excel-export>
+	<mapper class="cn.logow.util.excel.test.User">
+		<column name="name" title="姓名" align="center" width="auto"/>
+		<column name="age" title="年龄" align="center" width="5"/>
+		<column name="birthday" title="生日" align="center" width="12"/>
+		<column name="salary" title="薪水" align="center" width="16"/>
+	</mapper>
+</excel-export>
